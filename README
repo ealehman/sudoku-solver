@@ -1,0 +1,12 @@
+sudoku-solver
+=============
+Uses recursive backtracking to find the solution to a soduku puzzle. Made for 
+S-111 Harvard University (see sudoku_prompt for specification). Sample puzzles
+provided to test on (puzzle1.txt, puzzle2.txt)
+
+authors
+=======
+Alex Lehman
+ellelehman@college.harvard.edu
+Skeleton to display puzzle provided by S-111 staff.
+
